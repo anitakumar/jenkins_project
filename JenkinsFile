@@ -1,6 +1,6 @@
 ///// Common variables /////
-env.git_repo_name="git@github.com:pseudo/XXXXX" // update this value as created in Step 9 above
-env.git_id="XXXXXXXXXXXXXXXXX"  // update this value as created in Step 9 above
+env.git_repo_name="https://github.com/anitakumar/jenkins_project.git" // update this value as created in Step 9 above
+env.git_id="b69d1b9c-1bf1-4868-b0cf-3e7b01bd5cef"  // update this value as created in Step 9 above
 
 node("master")
 {
